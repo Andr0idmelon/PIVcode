@@ -1,0 +1,7 @@
+pytorch_lightning
+omegaconf
+numpy
+torch>=1.9
+torchmetrics
+wandb
+joblib
